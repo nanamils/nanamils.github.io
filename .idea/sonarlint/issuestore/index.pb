@@ -46,8 +46,6 @@ U
 %layouts/shortcodes/go_rust_trend.html,8\9\89a8b7a9bb7ff8fda764d50d8cc3cf835540b11e
 P
  layouts/shortcodes/bilibili.html,c\b\cb1b73e5b1dee6837518151d9c3cfd14e173003b
-L
-.github/workflows/deploy.yml,f\1\f130ad0d1d16d0d70ec30d355f736ae3784b05cf
 K
 content/page/about/index.md,6\f\6f61baf148fcba81d1559e8f3fa2bc6cd3f14e60
 N
@@ -262,3 +260,11 @@ U
 %content/categories/markdown/_index.md,7\2\7275178da474ae1761b485571ffc6c8951c17243
 S
 #content/categories/spring/_index.md,f\3\f3b73e427fcbbaa8e4cd3a5e66e59c22fa55e143
+c
+3layouts/partials/footer/components/custom-font.html,4\d\4d2a83c474e6602bbbf3f0834681c343650d245b
+k
+;layouts/layouts/partials/footer/components/custom-font.html,a\4\a419e1d9afeebc89a601064396f556d934f1c27a
+{
+Kthemes/hugo-theme-stack/layouts/partials/footer/components/custom-font.html,0\6\068f968e0647c341ff9ef8b96edfdb18330df7f9
+b
+2themes/hugo-theme-stack/assets/scss/variables.scss,9\6\96d146f11805c1398af3f5a78c367e53b6b8e7f7
