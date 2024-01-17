@@ -3,7 +3,7 @@ title: "Java Basic OOP"
 date: 2024-01-13
 categories: 
   - java
-image: "../../images/swift.jpg"
+image: "../../images/java.jpg"
 tags:
   - java
   - oop
