@@ -20,12 +20,12 @@ params:
 
     sidebar:
         compact: false
-        emoji:
+        emoji: 🗻
         subtitle:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/favicon.png
 
     article:
         math: false
