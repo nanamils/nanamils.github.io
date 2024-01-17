@@ -146,7 +146,7 @@ menu:
 
         - identifier: rss
           name: RSS
-          url: https://retheviper.github.io/index.xml
+          url: https://nanamils.github.io/index.xml
           params:
               icon: rss
 

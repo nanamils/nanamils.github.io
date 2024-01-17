@@ -11,5 +11,3 @@ menu:
 
 ## About
 工学出身のプログラマーです。今は、JavaとPythonを使っています。
-
-{{< youtube -fCWXIqoXfE >}}
