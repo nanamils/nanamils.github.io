@@ -250,3 +250,7 @@ Q.idea/sonarlint/securityhotspotstore/1/9/19a08a41d3d4c23a7b472760b35a91861689d0
 Q.idea/sonarlint/securityhotspotstore/2/d/2d5ebf99e975faca16dfc703881bc9b3cf656c23,0\9\097f82f5fef6622b431172ea396d4fff896829dc
 Å
 Q.idea/sonarlint/securityhotspotstore/1/c/1c145cb2f8f1229384285ff1ab88d3a5c561ca24,e\5\e5d8800b23d973efcc6ef76f922a32d6156598ed
+W
+'themes/hugo-theme-stack/i18n/zh-CN.yaml,3\c\3c0a84a8ba94a4fd9728b3a1a8053cc2ac8ce299
+W
+'layouts/layouts/partials/head/head.html,f\7\f75382cf5fc1760c8df58f3de135be1b41a965f0
